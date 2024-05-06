@@ -1,0 +1,25 @@
+/* Stylebots */
+.headline5 {
+  display: flex;
+}
+.counterContainer {
+  display: flex;
+  margin: 0 0 0 10px;
+}
+.loadsCounter {
+  display: flex;
+  margin: 0 0 0px 10px;
+}
+.updateCounter {
+  display: flex;
+}
+.updateLabel {
+  margin: 0 0px 0 0;
+}
+.updateNumber {
+  margin: 0 0 0 10px;
+}
+.clearBtn {
+  margin: 0 0 0 10px;
+  border-radius: 5px;
+}
